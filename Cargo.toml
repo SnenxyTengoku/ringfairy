@@ -1,6 +1,6 @@
 [package]
 name = "ringfairy"
-version = "0.2.2"
+version = "0.2.3"
 edition = "2021"
 authors = ["Kern AKA Kersed <dev@kersed.net>", "Shom Bandopadhaya <shom@bandopadhaya.com>", "Gil Caley <hello@gil.me>"]
 license = "GPL-3.0"
